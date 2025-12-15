@@ -1,7 +1,5 @@
 
 
-from sakura import othello
-
 # Generation ID: Hutch_1763374987242_4rxx7lpmh (前半)
 
 def myai(board, color):
