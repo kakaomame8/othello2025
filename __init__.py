@@ -1,4 +1,4 @@
-!git clone https://github.com/kkuramitsu/sakura.git
+
 
 from sakura import othello
 
@@ -62,7 +62,4 @@ def myai(board, color):
     valid_moves.sort(key=lambda x: x[2], reverse=True)
     return (valid_moves[0][0], valid_moves[0][1])
 
-# Generation ID: Hutch_1763374987242_4rxx7lpmh (後半)
 
-
-othello.play(myai)
