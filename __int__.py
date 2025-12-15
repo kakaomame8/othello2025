@@ -1,3 +1,5 @@
+!git clone https://github.com/kkuramitsu/sakura.git
+
 from sakura import othello
 
 # Generation ID: Hutch_1763374987242_4rxx7lpmh (前半)
